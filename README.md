@@ -35,24 +35,6 @@ This repository tracks exciting Indian startups that are revolutionizing various
   | Cohesity | Mid-size | ✅ Hiring | [View Jobs](https://www.cohesity.com/company/careers/) |
   | Gainsight | Mid-size | ✅ Hiring | [View Jobs](https://www.gainsight.com/careers/) |
   | Snowflake | Large | ✅ Hiring | [View Jobs](https://careers.snowflake.com) |
-  
-    ## 💼 Job Categories Typically Available
-      - Software Engineering
-      - Product Management
-      - DevOps/SRE
-      - Technical Support
-      - Sales & Marketing
-      - Customer Success
-      - Data Science
-      - UX/UI Design
-    
-    ## 🌟 Why SaaS Companies?
-      - 💻 Remote-friendly culture
-      - 📈 High growth potential
-      - 🎯 Product-driven environment
-      - 🌍 Global impact
-      - 💪 Competitive compensation
-      - 🎓 Learning opportunities
 
   ## 🏢 Large Media & Entertainment Giants
   
@@ -79,26 +61,6 @@ This repository tracks exciting Indian startups that are revolutionizing various
   | Hunger Station | Mid-size | ✅ Hiring | [View Jobs](https://hungerstation.com/careers) |
   | Dubizzle | Mid-size | ✅ Hiring | [View Jobs](https://dubizzle.applytojob.com/apply) |
   | OMD UAE | Mid-size | ✅ Hiring | [View Jobs](https://www.omd.com/mena/careers/) |
-
-    ## 💼 Common Job Categories
-      - Software Engineering
-      - Content Operations
-      - Data Analytics
-      - UI/UX Design
-      - Product Management
-      - Digital Marketing
-      - Content Creation
-      - Media Operations
-      - Customer Experience
-      - ML/AI Engineering
-    
-    ## 🌟 Why Media & Entertainment?
-      - 🎨 Creative environment
-      - 🌐 Global reach
-      - 💡 Innovation-driven
-      - 🚀 Rapid growth
-      - 🎯 User-focused
-      - 🔄 Dynamic industry
 
   ## ✈️ Major Airlines & Aviation
   
@@ -128,85 +90,201 @@ This repository tracks exciting Indian startups that are revolutionizing various
   | Dunzo | Mid-size | ✅ Hiring | [View Jobs](https://www.dunzo.com/careers) |
   | DP World | Large | ✅ Hiring | [View Jobs](https://www.dpworld.com/careers) |
 
-    ## 💼 Common Job Categories
-      - Software Engineering
-      - Data Science & Analytics
-      - Operations Management
-      - Supply Chain Technology
-      - Fleet Management
-      - Route Optimization
-      - Customer Experience
-      - Logistics Planning
-      - Network Design
-      - Safety & Compliance
-    
-    ## 🌟 Why Transportation & Logistics?
-      - 🌐 Global impact
-      - 💡 Innovation in mobility
-      - 🚀 Rapid technological growth
-      - 🔄 Essential industry
-      - 📈 Stable career growth
-      - 🌍 International exposure
+  ## 📊 Fintech Companies
+  
+  | Company Name | Approx Size | Category | Status | Careers Page |
+  |-------------|-------------|----------|---------|--------------|
+  | Axis Bank | 40,000+ | MNC | ✅ Hiring | [View Jobs](https://www.axisbank.com/careers) |
+  | BankBazaar | 400+ | Startup | ✅ Hiring | [View Jobs](https://www.bankbazaar.com/careers.html) |
+  | BharatPe | 1,000+ | Startup | ✅ Hiring | [View Jobs](https://www.bharatpe.com/careers) |
+  | Citi | 20,000+ | MNC | ✅ Hiring | [View Jobs](https://careers.citi.com) |
+  | CRED | 500+ | Startup | ✅ Hiring | [View Jobs](https://cred.club/careers) |
+  | CredAvenue | 200+ | Startup | ✅ Hiring | [View Jobs](https://credavenue.com/careers) |
+  | ETMoney | 200+ | Startup | ✅ Hiring | [View Jobs](https://www.etmoney.com/careers) |
+  | Faircent | 200+ | Startup | ✅ Hiring | [View Jobs](https://www.faircent.com/careers) |
+  | Groww | 1,000+ | Startup | ✅ Hiring | [View Jobs](https://groww.in/careers) |
+  | HDFC Bank | 50,000+ | MNC | ✅ Hiring | [View Jobs](https://hdfcbank.com/careers) |
+  | HSBC | 40,000+ | MNC | ✅ Hiring | [View Jobs](https://www.hsbc.com/careers) |
+  | ICICI Bank | 50,000+ | MNC | ✅ Hiring | [View Jobs](https://www.icicibank.com/careers) |
+  | Instamojo | 500+ | Startup | ✅ Hiring | [View Jobs](https://www.instamojo.com/careers/) |
+  | JPMorgan | 2,000+ | MNC | ✅ Hiring | [View Jobs](https://careers.jpmorgan.com/us/en/home) |
+  | Khatabook | 500+ | Startup | ✅ Hiring | [View Jobs](https://khatabook.com/careers) |
+  | Lendingkart | 500+ | Startup | ✅ Hiring | [View Jobs](https://www.lendingkart.com/careers) |
+  | Mashreq Bank | 3,000+ | MNC | ✅ Hiring | [View Jobs](https://www.mashreqbank.com/en/home/careers) |
+  | Mobikwik | 1,000+ | Startup | ✅ Hiring | [View Jobs](https://www.mobikwik.com/careers) |
+  | MoneyTap | 200+ | Startup | ✅ Hiring | [View Jobs](https://moneytap.com/careers) |
+  | MoneyView | 200+ | Startup | ✅ Hiring | [View Jobs](https://moneyview.in/careers) |
+  | NiYO Solutions | 300+ | Startup | ✅ Hiring | [View Jobs](https://www.niyo.com/careers) |
+  | OkCredit | 200+ | Startup | ✅ Hiring | [View Jobs](https://okcredit.in/careers) |
+  | Open | 400+ | Startup | ✅ Hiring | [View Jobs](https://open.money/careers) |
+  | PayPal | 1,500+ | MNC | ✅ Hiring | [View Jobs](https://www.paypal.com/us/webapps/mpp/jobs) |
+  | Paytm | 2,000+ | Startup | ✅ Hiring | [View Jobs](https://paytm.com/careers) |
+  | PhonePe | 1,500+ | Startup | ✅ Hiring | [View Jobs](https://www.phonepe.com/careers/) |
+  | Pine Labs | 1,000+ | Startup | ✅ Hiring | [View Jobs](https://www.pinelabs.com/careers/) |
+  | PolicyBazaar | 2,000+ | Startup | ✅ Hiring | [View Jobs](https://www.policybazaar.com/careers) |
+  | R Systems | 2,000+ | Mid Size | ✅ Hiring | [View Jobs](https://www.rsystems.com/careers/) |
+  | Rapido | 1,000+ | Startup | ✅ Hiring | [View Jobs](https://rapido.bike/careers) |
+  | Rapipay Fintech | 200+ | Startup | ✅ Hiring | [View Jobs](https://www.rapipay.com/careers) |
+  | Razorpay | 2,300+ | Startup | ✅ Hiring | [View Jobs](https://razorpay.com/jobs/jobs-all/) |
+  | RazorpayX | 200+ | Startup | ✅ Hiring | [View Jobs](https://razorpay.com/jobs/jobs-all/) |
+  | Recko | 100+ | Startup | ✅ Hiring | [View Jobs](https://recko.com/careers) |
+  | Rupeek | 500+ | Startup | ✅ Hiring | [View Jobs](https://rupeek.com/careers) |
+  | Slice | 200+ | Startup | ✅ Hiring | [View Jobs](https://sliceit.com/careers) |
+  | Upstox | 500+ | Startup | ✅ Hiring | [View Jobs](https://upstox.com/careers/) |
+  | Zerodha | 1,000+ | Startup | ✅ Hiring | [View Jobs](https://zerodha.com/careers) |
+  | ZestMoney | 500+ | Startup | ✅ Hiring | [View Jobs](https://www.zestmoney.in/careers) |
 
-### 💰 Fintech
-| Company Name | Location | Founded | Funding | What They Do |
-|-------------|----------|----------|---------|--------------|
-| CRED | Bangalore | 2018 | $1.2B | Credit card rewards & payments |
-| Razorpay | Bangalore | 2014 | $741.5M | Payment gateway solutions |
-| Zerodha | Bangalore | 2010 | Bootstrapped | Stock trading platform |
+  ## 💼 MAANG level companies
+  
+  | Company Name | Approx Size | Category | Status | Careers Page |
+  |-------------|-------------|----------|---------|--------------|
+  | Adobe | Large | MNC | ✅ Hiring | [View Jobs](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced) |
+  | Apple | Large | MNC | ✅ Hiring | [View Jobs](https://www.apple.com/jobs/us/) |
+  | Cisco | Large | MNC | ✅ Hiring | [View Jobs](https://jobs.cisco.com/) |
+  | Dell | Large | MNC | ✅ Hiring | [View Jobs](https://jobs.dell.com/) |
+  | Facebook (Meta) | Large | MNC | ✅ Hiring | [View Jobs](https://www.metacareers.com/) |
+  | Google | Large | MNC | ✅ Hiring | [View Jobs](https://careers.google.com/) |
+  | HP | Large | MNC | ✅ Hiring | [View Jobs](https://jobs.hp.com/) |
+  | IBM | Large | MNC | ✅ Hiring | [View Jobs](https://www.ibm.com/employment/) |
+  | Intel | Large | MNC | ✅ Hiring | [View Jobs](https://jobs.intel.com/) |
+  | LinkedIn | Large | MNC | ✅ Hiring | [View Jobs](https://careers.linkedin.com/) |
+  | Microsoft | Large | MNC | ✅ Hiring | [View Jobs](https://careers.microsoft.com/) |
+  | Nvidia | Large | MNC | ✅ Hiring | [View Jobs](https://www.nvidia.com/en-us/about-nvidia/careers/) |
+  | Oracle | Large | MNC | ✅ Hiring | [View Jobs](https://www.oracle.com/corporate/careers/) |
+  | Salesforce | Large | MNC | ✅ Hiring | [View Jobs](https://www.salesforce.com/company/careers/) |
+  | ServiceNow | Large | MNC | ✅ Hiring | [View Jobs](https://www.servicenow.com/careers.html) |
+  | Twitter | Large | MNC | ✅ Hiring | [View Jobs](https://careers.twitter.com/) |
 
-### 🏥 Healthtech
-| Company Name | Location | Founded | Funding | What They Do |
-|-------------|----------|----------|---------|--------------|
-| Practo | Bangalore | 2008 | $251M | Healthcare platform |
-| PharmEasy | Mumbai | 2015 | $1.5B | Online pharmacy |
-| Pristyn Care | Gurgaon | 2018 | $177M | Surgery care platform |
+  ## 📚 Complete Company Directory
+  
+  | Company Name | Approx Size | Category | Status | Careers Page |
+  |-------------|-------------|----------|---------|--------------|
+  | Byju's | Large | Startup | ✅ Hiring | [View Jobs](https://byjus.com/careers/) |
+  | Classplus | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.classplusapp.com/careers) |
+  | Coursera | Large | MNC | ✅ Hiring | [View Jobs](https://www.coursera.org/about/careers) |
+  | Edureka | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.edureka.co/careers) |
+  | Extramarks | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.extramarks.com/careers) |
+  | Khan Academy | Large | Non-Profit | ✅ Hiring | [View Jobs](https://www.khanacademy.org/about/careers) |
+  | Simplilearn | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.simplilearn.com/careers) |
+  | Skillshare | Large | MNC | ✅ Hiring | [View Jobs](https://www.skillshare.com/jobs) |
+  | Teachmint | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.teachmint.com/careers) |
+  | Toppr | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.toppr.com/careers/) |
+  | Unacademy | Mid-size | Startup | ✅ Hiring | [View Jobs](https://unacademy.com/careers) |
+  | UpGrad | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.upgrad.com/careers/) |
+  | Vedantu | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.vedantu.com/careers) |
 
-### 📚 Edtech
-| Company Name | Location | Founded | Funding | What They Do |
-|-------------|----------|----------|---------|--------------|
-| BYJU'S | Bangalore | 2011 | $5.8B | Online learning |
-| Unacademy | Bangalore | 2015 | $858.2M | Test prep platform |
-| upGrad | Mumbai | 2015 | $185M | Higher education |
+  ## 🛍️ Complete Company Directory
+  
+  | Company Name | Approx Size | Category | Status | Careers Page |
+  |-------------|-------------|----------|---------|--------------|
+  | Ajio | Large | MNC | ✅ Hiring | [View Jobs](https://www.ajio.com/careers) |
+  | Amazon | Large | MNC | ✅ Hiring | [View Jobs](https://www.amazon.jobs/) |
+  | Cars24 | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.cars24.com/jobs) |
+  | Flipkart | Large | MNC | ✅ Hiring | [View Jobs](https://flipkartcareers.com) |
+  | Meesho | Mid-size | Startup | ✅ Hiring | [View Jobs](https://meesho.com/careers) |
+  | Myntra | Large | MNC | ✅ Hiring | [View Jobs](https://www.myntra.com/careers) |
+  | Noon | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.noon.com/careers) |
+  | Nykaa | Large | Startup | ✅ Hiring | [View Jobs](https://careers.nykaa.com) |
+  | OLX | Large | MNC | ✅ Hiring | [View Jobs](https://www.olxgroup.com/careers) |
+  | Propertyfinder | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.propertyfinder.ae/en/careers) |
+  | Shopsy | Mid-size | Startup | ✅ Hiring | [View Jobs](https://shopsy.in/careers) |
+  | Snapdeal | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.snapdeal.com/careers) |
+  | Urban Company | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.urbancompany.com/careers) |
 
-### 🛍️ E-commerce
-| Company Name | Location | Founded | Funding | What They Do |
-|-------------|----------|---------|---------|--------------|
-| Meesho | Bangalore | 2015 | $1.1B | Social commerce |
-| Nykaa | Mumbai | 2012 | $100M | Beauty & fashion |
-| Dealshare | Bangalore | 2018 | $393M | Social e-commerce |
+  ## 💰 Consulting
+  
+  | Company Name | Approx Size | Category | Status | Careers Page |
+  |-------------|-------------|----------|---------|--------------|
+  | Abbott | Large | MNC | ✅ Hiring | [View Jobs](https://www.abbott.com/careers.html) |
+  | Accenture | Large | MNC | ✅ Hiring | [View Jobs](https://www.accenture.com/in-en/careers) |
+  | Bain & Co. | Large | MNC | ✅ Hiring | [View Jobs](https://www.bain.com/careers/) |
+  | BCG | Large | MNC | ✅ Hiring | [View Jobs](https://www.bcg.com/careers) |
+  | Deloitte | Large | MNC | ✅ Hiring | [View Jobs](https://www2.deloitte.com/global/en/careers.html) |
+  | Eli Lilly | Large | MNC | ✅ Hiring | [View Jobs](https://careers.lilly.com) |
+  | EY | Large | MNC | ✅ Hiring | [View Jobs](https://www.ey.com/en_gl/careers) |
+  | Fractal Analytics | Mid-size | Startup | ✅ Hiring | [View Jobs](https://fractalanalytics.com/careers) |
+  | GSK | Large | MNC | ✅ Hiring | [View Jobs](https://www.gsk.com/en-gb/careers/) |
+  | Healthkart | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.healthkart.com/careers) |
+  | KPMG | Large | MNC | ✅ Hiring | [View Jobs](https://home.kpmg/xx/en/home/careers.html) |
+  | McKinsey | Large | MNC | ✅ Hiring | [View Jobs](https://www.mckinsey.com/careers) |
+  | Med Supply International | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.medsupplyinternational.com/careers/) |
+  | Novartis | Large | MNC | ✅ Hiring | [View Jobs](https://www.novartis.com/careers) |
+  | PharmEasy | Mid-size | Startup | ✅ Hiring | [View Jobs](https://pharmeasy.in/careers) |
+  | Pfizer | Large | MNC | ✅ Hiring | [View Jobs](https://www.pfizer.com/careers) |
+  | PwC | Large | MNC | ✅ Hiring | [View Jobs](https://www.pwc.com/gx/en/careers.html) |
+  | Roche | Large | MNC | ✅ Hiring | [View Jobs](https://careers.roche.com/global/en.html) |
+  | Sanofi | Large | MNC | ✅ Hiring | [View Jobs](https://www.sanofi.com/en/careers) |
+  | Tiger Analytics | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.tigeranalytics.com/careers/) |
+  | Tower Research Capital | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.tower-research.com/careers) |
+  | Tredence | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.tredence.com/careers/) |
+  
+  ## 🍔 B2C
+  
+  | Company Name | Approx Size | Category | Status | Careers Page |
+  |-------------|-------------|----------|---------|--------------|
+  | Air Arabia | Large | MNC | ✅ Hiring | [View Jobs](https://www.airarabia.com/en/careers) |
+  | Ajio | Large | MNC | ✅ Hiring | [View Jobs](https://www.ajio.com/careers) |
+  | Blinkit | Mid-size | Startup | ✅ Hiring | [View Jobs](https://blinkit.com/careers) |
+  | BookMyTrip | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.bookmytrip.com/careers) |
+  | Careem | Large | Startup | ✅ Hiring | [View Jobs](https://careers.careem.com) |
+  | Delhivery | Large | Startup | ✅ Hiring | [View Jobs](https://v3.delhivery.com/careers) |
+  | Dubizzle | Mid-size | Startup | ✅ Hiring | [View Jobs](https://dubizzle.com/careers) |
+  | Dunzo | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.dunzo.com/careers) |
+  | Emirates | Large | MNC | ✅ Hiring | [View Jobs](https://www.emiratesgroupcareers.com) |
+  | Flipkart | Large | MNC | ✅ Hiring | [View Jobs](https://flipkartcareers.com) |
+  | Goibibo | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.goibibo.com/careers) |
+  | Grofers | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.grofers.com/careers) |
+  | Meesho | Mid-size | Startup | ✅ Hiring | [View Jobs](https://meesho.com/careers) |
+  | Myntra | Large | MNC | ✅ Hiring | [View Jobs](https://www.myntra.com/careers) |
+  | Noon | Mid-size | Startup | ✅ Hiring | [View Jobs](https://noon.com/careers) |
+  | Nykaa | Large | Startup | ✅ Hiring | [View Jobs](https://careers.nykaa.com) |
+  | Ola | Large | Startup | ✅ Hiring | [View Jobs](https://ola.careers) |
+  | OYO Rooms | Large | Startup | ✅ Hiring | [View Jobs](https://www.oyorooms.com/careers) |
+  | Propertyfinder | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.propertyfinder.ae/en/careers) |
+  | Qatar Airways | Large | MNC | ✅ Hiring | [View Jobs](https://careers.qatarairways.com) |
+  | Snapdeal | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.snapdeal.com/careers) |
+  | Swiggy | Large | Startup | ✅ Hiring | [View Jobs](https://swiggy.com/careers) |
+  | Uber | Large | MNC | ✅ Hiring | [View Jobs](https://www.uber.com/global/en/careers/) |
+  | Udaan | Mid-size | Startup | ✅ Hiring | [View Jobs](https://udaan.com/careers) |
+  | Urban Company | Mid-size | Startup | ✅ Hiring | [View Jobs](https://www.urbancompany.com/careers) |
+  | Zomato | Large | Startup | ✅ Hiring | [View Jobs](https://zomato.com/careers) |
 
-### 🚗 Mobility
-| Company Name | Location | Founded | Funding | What They Do |
-|-------------|----------|---------|---------|--------------|
-| Ola Electric | Bangalore | 2017 | $857M | Electric vehicles |
-| Rapido | Bangalore | 2015 | $130M | Bike taxi service |
-| BluSmart | Gurgaon | 2019 | $75M | Electric ride-hailing |
-
-### 🤖 AI/ML
-| Company Name | Location | Founded | Funding | What They Do |
-|-------------|----------|---------|---------|--------------|
-| Fractal | Mumbai | 2000 | $685M | AI solutions |
-| Yellow.ai | Bangalore | 2016 | $102M | Conversational AI |
-| Vernacular.ai | Bangalore | 2016 | $5.1M | Voice AI |
-
-## 🌟 Rising Stars
-| Company Name | Category | USP | Watch Out For |
-|-------------|----------|-----|---------------|
-| Dukaan | 🛍️ E-commerce | No-code store platform | Digital storefront revolution |
-| Khatabook | 💰 Fintech | Digital ledger for SMBs | SMB digitization |
-| AgniKul | 🚀 SpaceTech | 3D printed rockets | Space innovation |
+  ## 🫂 B2B
+  
+  | Company Name | Approx Size | Category | Status | Careers Page |
+  |-------------|-------------|----------|---------|--------------|
+  | Akamai | MNC | MNC | ✅ Hiring | [View Jobs](https://www.akamai.com/careers) |
+  | Arcesium | Startup | Startup | ✅ Hiring | [View Jobs](https://www.arcesium.com/careers) |
+  | Atlassian | MNC | MNC | ✅ Hiring | [View Jobs](https://www.atlassian.com/company/careers) |
+  | Axtria | Startup | Startup | ✅ Hiring | [View Jobs](https://www.axtria.com/careers/) |
+  | BrowserStack | Startup | Startup | ✅ Hiring | [View Jobs](https://www.browserstack.com/careers) |
+  | Cohesity | Startup | Startup | ✅ Hiring | [View Jobs](https://www.cohesity.com/careers/) |
+  | Directi | Startup | Startup | ✅ Hiring | [View Jobs](https://www.directi.com/careers) |
+  | Dunzo | Startup | Startup | ✅ Hiring | [View Jobs](https://www.dunzo.com/careers) |
+  | Dunnhumby | MNC | MNC | ✅ Hiring | [View Jobs](https://www.dunnhumby.com/careers/) |
+  | Ericsson | MNC | MNC | ✅ Hiring | [View Jobs](https://www.ericsson.com/en/careers) |
+  | Fractal Analytics | Startup | Startup | ✅ Hiring | [View Jobs](https://fractal.ai/careers) |
+  | Freshdesk | MNC | MNC | ✅ Hiring | [View Jobs](https://freshdesk.com/careers) |
+  | Freshworks | Startup | Startup | ✅ Hiring | [View Jobs](https://www.freshworks.com/careers/) |
+  | Friesland Campina | MNC | MNC | ✅ Hiring | [View Jobs](https://www.frieslandcampina.com/careers) |
+  | IBM | MNC | MNC | ✅ Hiring | [View Jobs](https://www.ibm.com/employment/) |
+  | InMobi | Startup | Startup | ✅ Hiring | [View Jobs](https://www.inmobi.com/careers) |
+  | Infosys | MNC | MNC | ✅ Hiring | [View Jobs](https://www.infosys.com/careers/) |
+  | Microsoft | MNC | MNC | ✅ Hiring | [View Jobs](https://careers.microsoft.com) |
+  | Nokia | MNC | MNC | ✅ Hiring | [View Jobs](https://www.nokia.com/careers/) |
+  | Oracle (OCI) | MNC | MNC | ✅ Hiring | [View Jobs](https://www.oracle.com/corporate/careers/) |
+  | Red Hat | MNC | MNC | ✅ Hiring | [View Jobs](https://www.redhat.com/en/jobs) |
+  | Redington Gulf | Mid Size | Mid Size | ✅ Hiring | [View Jobs](https://redingtongulf.com/careers) |
+  | SAP Labs | MNC | MNC | ✅ Hiring | [View Jobs](https://www.sap.com/about/careers.html) |
+  | Salesforce | MNC | MNC | ✅ Hiring | [View Jobs](https://careers.salesforce.com) |
+  | ServiceNow | MNC | MNC | ✅ Hiring | [View Jobs](https://www.servicenow.com/careers.html) |
+  | Tredence | Startup | Startup | ✅ Hiring | [View Jobs](https://www.tredence.com/careers) |
+  | Twilio | MNC | MNC | ✅ Hiring | [View Jobs](https://www.twilio.com/company/jobs) |
+  | Wipro | MNC | MNC | ✅ Hiring | [View Jobs](https://careers.wipro.com) |
+  | Zeta | Startup | Startup | ✅ Hiring | [View Jobs](https://www.zeta.in/careers) |
+  | Zoho | MNC | MNC | ✅ Hiring | [View Jobs](https://www.zoho.com/careers/) |
 
 ## 🏆 Achievements & Milestones
-
-### Unicorns Created in 2023
-- Company A: Valued at $X billion
-- Company B: Valued at $Y billion
-- Company C: Valued at $Z billion
-
-### Notable Acquisitions
-- Company X acquired by Big Corp for $XX million
-- Company Y merged with Company Z
 
 ## 📈 Sector-wise Growth (2023)
 - Fintech: 45% YoY growth
@@ -228,11 +306,6 @@ Please ensure your suggestion includes:
 - Latest funding
 - Brief description
 
-## 📝 Notes
-- Funding data last updated: January 2024
-- Only includes startups founded after 2000
-- Focus on technology-enabled businesses
-
 ## 🔗 Useful Resources
 - [Startup India](https://www.startupindia.gov.in/)
 - [Inc42](https://inc42.com/)
@@ -241,11 +314,8 @@ Please ensure your suggestion includes:
 ## ⭐ Support
 If you find this list useful, give it a star! ⭐
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ---
 
-Maintained with ❤️ by [Your Name](https://github.com/yourusername)
+Maintained with ❤️ by [Yashaswi Soni](https://github.com/ysoni24)
 
-Last Updated: January 2024
+Last Updated: February 2024
